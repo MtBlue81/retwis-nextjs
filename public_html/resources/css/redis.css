@@ -1,0 +1,21 @@
+.user-button {
+        background-image: url(../../resources/images/user.gif) !important;
+}
+.all-users-button {
+        background-image: url(../../resources/images/all.gif) !important;
+}
+.logout-button {
+        background-image: url(../../resources/images/logout.gif) !important;
+}
+.main-label {
+        background-image: url(../../resources/images/logout.gif) !important;
+}
+.menu-button {
+        background-image: url(../../resources/images/menu.png) !important;
+}
+.follow-button {
+        background-image: url(../../resources/images/follow.gif) !important;
+}
+.remove-button {
+        background-image: url(../../resources/images/remove.gif) !important;
+}
